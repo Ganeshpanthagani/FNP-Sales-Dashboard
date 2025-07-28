@@ -47,5 +47,5 @@ To analyze Blinkit's sales data in order to:
 ## 📎 Acknowledgements
 
 This dashboard was created for portfolio and educational purposes.  
-Dataset adapted from publicly available e-commerce sales data.
+
 
