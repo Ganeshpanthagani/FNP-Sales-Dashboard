@@ -27,7 +27,7 @@ To analyze Blinkit's sales data in order to:
 ## 🧰 Tools & Technologies Used
 
 - **Power BI Desktop**  
-- **Power Query ** for data shaping and cleaning  
+- **Power Query** for data shaping and cleaning  
 - **DAX** for calculated KPIs and measures  
 - **Slicers and Visual Filters** for interactivity  
 - **GitHub** for project versioning and sharing
