@@ -29,7 +29,7 @@ To provide business users and analysts with a visual summary of:
 - **Interactive Filters:**
   - Ordered Month
   - Occasion
-  - 
+    
 ## 🛠 Tools & Technologies Used
 
 - **Power BI Desktop**
