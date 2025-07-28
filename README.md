@@ -1,21 +1,14 @@
-📦 PowerBI-Dashboards
-├── 📁 Blinkit-Sales-Analysis-Dashboard
-│   ├── 📁Blinkit-dataset
-│     └──Blinkit Gracery Data Excel.xlsx
-│   ├── 📁 icons
-│     ├──Avg Sales.png
-│     ├──Items.png
-│     ├──Rating.png
-│     ├──Sales.png
-│     └──setting.png
-│   ├──Blinkit_Grocery_Sales_Analysis_Dashboard.pbix
-│   └──Screenshot-Blinkit-sales-analysis-dashboard.png
-│
-├── 📁 FNP-Sales-Analysis-Dashboard
-│   ├── fnp-datasets
-│      ├──customers.csv
-│      ├──orders.csv  
-│      └──products.csv
-│   ├── FNP_Sales_Analysis_Dashboard.pbix
-│   ├── Sceenshot-FNP-sales-dashboard.JPG
-│   └── fnp-logo.JPG
+# Power BI Dashboard Portfolio
+
+This repository contains a collection of Power BI dashboards developed to demonstrate skills in data modeling, visualization, and real-world business problem solving.
+
+## 📂 Projects Included:
+- **FNP Sales Analysis** – Occasion-based e-commerce insights
+- **Blinkit Sales Insights** – Outlet-level sales breakdown and customer metrics
+  
+## 🛠 Tools & Skills:
+- Power BI Desktop
+- Power Query for Data Cleaning and Transformation
+- DAX (KPIs, Time Intelligence)
+- Data Visualization
+  
